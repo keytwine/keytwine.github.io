@@ -1,0 +1,19 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@import "minima";
+
+.site-title {
+    float: left;
+    overflow: hidden;
+    padding: 0;
+    text-indent: -9999px;
+    min-height: 50px;
+    min-width: 120px;
+    background: url( '/assets/images/logo_without_background.png' ) no-repeat 90%;
+    background-size: 90%;
+}
+
+.site-header {
+    border-top: 0px;
+}
