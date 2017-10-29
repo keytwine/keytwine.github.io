@@ -9,7 +9,10 @@ twitter_username: thekeymon
 github_username:  keymon
 logo: "/assets/images/logo_without_background.png"
 
+# Jekyll/Minima extensions
 google_analytics: UA-108840055-1
+disqus:
+  shortname: keytwine
 
 # Build settings
 markdown: kramdown
