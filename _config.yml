@@ -4,7 +4,7 @@ email: hector.rivas@keytwine.net
 description: >-
   Platform Engineering and development, Specialised PaaS, IaaS, containers and Cloud Native infrastructure.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.keytwine.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thekeymon
 github_username:  keymon
 logo: "/assets/images/logo_without_background.png"
