@@ -31,3 +31,12 @@ a, a:visited, a:active, a:hover {
     color: #B2C0C6;
     line-height: 1.5;
 }
+
+.footer-col-1 {
+    width: -webkit-calc(28% - (30px / 2));
+    width: calc(28% - (30px / 2));
+}
+.footer-col-2 {
+    width: -webkit-calc(25% - (30px / 2));
+    width: calc(25% - (30px / 2));
+}

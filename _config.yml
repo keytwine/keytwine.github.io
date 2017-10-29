@@ -1,12 +1,14 @@
 title: KeyTwine ltd.
 author: Hector Rivas Gandara
 email: hector.rivas@keytwine.net
+personal_email: keymon@gmail.com
 description: >-
   Platform Engineering and development, Specialised PaaS, IaaS, containers and Cloud Native infrastructure.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.keytwine.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thekeymon
 github_username:  keymon
+linkedin_username: hectorrivasgandara
 logo: "/assets/images/logo_without_background.png"
 
 # Jekyll/Minima extensions
