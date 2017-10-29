@@ -1,0 +1,33 @@
+---
+# Style for Keytwine
+---
+
+.site-title {
+    float: left;
+    overflow: hidden;
+    padding: 0;
+    text-indent: -9999px;
+    min-height: 50px;
+    min-width: 120px;
+    background: url( "{{ site.logo | relative_url }}" ) no-repeat 90%;
+    background-size: 90%;
+}
+
+.site-header {
+    border-top: 0px;
+}
+
+h1, h2, h3,
+h1 a, h1 a:visited, h1 a:active,
+h1 a:hover {
+    color: #F58E0A;
+}
+
+a, a:visited, a:active, a:hover {
+	color: #B2C0C6;
+}
+
+.site-nav .page-link {
+    color: #B2C0C6;
+    line-height: 1.5;
+}
