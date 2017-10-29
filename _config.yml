@@ -9,6 +9,8 @@ twitter_username: thekeymon
 github_username:  keymon
 logo: "/assets/images/logo_without_background.png"
 
+google_analytics: UA-108840055-1
+
 # Build settings
 markdown: kramdown
 theme: minima
